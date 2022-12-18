@@ -16,11 +16,11 @@ To unlock sales insights that are not visible to the sales team in order to enab
 ## Stakeholders
 The results obtained in this project can be used by various stakeholders such as
 
-*Sales director
-*Marketing team
-*Customer service team
-*Data and analytics team
-*IT
+* Sales director
+* Marketing team
+* Customer service team
+* Data and analytics team
+* IT
  
 ## Objective
 An automated dashboard providing quick and latest sales in order to support data driven decision making.
@@ -33,11 +33,11 @@ Data Source:
 ## Insights
 After a quick data exploration in MySQL, here are some initial findings:
 
-*The database contains 5 tables: customers, date, markets, products, and transactions.
-There are 17 markets, 279 products, and 38 customers.
-The observation period is from OCT 2017 to JUN 2020.
-The total revenue in 2020 was ₹ 142.22 M, 57.7% less than 2019, which was ₹ 336.02 M.
-Most of the transactions data are in INR(₹) currency, but we have 2 records in US($) currency.
-And we got some garbage values in sales amount and market column. We’re going to deal with it in the ETL process.
+* The database contains 5 tables: customers, date, markets, products, and transactions.
+* There are 17 markets, 279 products, and 38 customers.
+* The observation period is from OCT 2017 to JUN 2020.
+* The total revenue in 2020 was ₹ 142.22 M, 57.7% less than 2019, which was ₹ 336.02 M.
+* Most of the transactions data are in INR(₹) currency, but we have 2 records in US($) currency.
+* And we got some garbage values in sales amount and market column. We’re going to deal with it in the ETL process.
 
 
